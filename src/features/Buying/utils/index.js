@@ -1,0 +1,1 @@
+// những hàm dùng chung cho cả ứng dụng
